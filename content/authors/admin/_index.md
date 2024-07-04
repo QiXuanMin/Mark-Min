@@ -54,5 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qixuan Min is a graduate student with a master degree at the University of Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics, Computational Optical Imaging Lab. Her research interests include Metasurface for Sensing, Reprogrammable Metasurface, Light-field Camera, Computational Imaging, Optical Computing. During his Master's program, he focused on metasurface-based quantitative phase imaging, advised by Professor Guohai Situ and Professor Jinying Guo. He is finding Ph.D. Position!
+
