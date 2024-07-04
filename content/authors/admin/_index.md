@@ -54,5 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Qixuan Min is a graduate student with a master degree at the University of Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics, Computational Optical Imaging Lab. His research interests include Metasurface for Sensing, Reprogrammable Metasurface, Light-field Camera, Computational Imaging, Optical Computing. During his Master's program, he focused on metasurface-based quantitative phase imaging, advised by Professor Guohai Situ and Professor Jinying Guo. He is finding a Ph.D. Position!
+Qixuan Min is a graduate student with a master degree at the University of Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics, Computational Optical Imaging Lab. His research interests include Metasurface for Sensing, Reprogrammable Metasurface, Light-field Camera, Computational Imaging, Optical Computing. During his Master's program, he focused on metasurface-based quantitative phase imaging, advised by Professor Guohai Situ and Professor Jinying Guo. He is finding a Ph.D. Position!
 
