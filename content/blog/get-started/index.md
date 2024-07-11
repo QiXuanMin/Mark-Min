@@ -1,16 +1,16 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: Quantitative Phase Imaging with a Varifocal Metalens
+summary: Varifocal Metalens for Compact and Accurate Quantitative Phase Imaging
+date: ACS Photonics 3th July 2024
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Concept of the Metalens based QPI'
 
 authors:
   - admin
-  - Ted
+#  - Ted
 
 tags:
   - Academic
