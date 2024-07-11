@@ -1,7 +1,7 @@
 ---
 title: Varifocal Metalens for Compact and Accurate Quantitative Phase Imaging
 summary: ACS Photonics
-date: 2024-7-3
+date:2024-07-03
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
