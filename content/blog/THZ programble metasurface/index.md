@@ -1,14 +1,14 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Terahertz programmable metasurface based on free carrier plasma dispersion effect
+summary: Applied Physics Letters
+date: 2024-06-20
 authors:
   - admin
 tags:
   - Second Brain
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Schematic diagram of the unit structure and beam steering'
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
