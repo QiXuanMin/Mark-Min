@@ -13,9 +13,9 @@ authors:
 #  - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Computational Imaging
+  - Metasurface
+  - Master
 ---
 
 [🔗Paper Link](https://pubs.acs.org/doi/10.1021/acsphotonics.4c00658)
