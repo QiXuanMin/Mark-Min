@@ -21,13 +21,14 @@ We proposed a design for a terahertz programmable metasurface based on the free 
 
 <img src=".\fig1.jpg" style="zoom:20%;" />
 
-<center><p>Figure 1. Continuous phase regulation of a metasurface unit under voltage.</p></center>
+<center style="font-size:14px"><p>Figure 1. Continuous phase regulation of a metasurface unit under voltage.</p></center>
 
 <img src=".\fig2.jpg" style="zoom:20%;" />
 
-<center><p>Figure 2. (a) and (b) The reflected phase and amplitude of metasurface biased by different voltages. (c) The phase and amplitude response at 0.4 THz with different voltage.
+<center style="font-size:14px"><p>Figure 2. (a) and (b) The reflected phase and amplitude of metasurface biased by different voltages. (c) The phase and amplitude response at 0.4 THz with different voltage.
 (d) Reflected wavefront of fourth-order phase modulation at 0.4 THz for normal incidence. (e) Phase modulation depth at different frequencies. (f) The relationship between resonance frequency, absorption loss, radiation loss, and applied voltage.</p></center>
+
 
 <img src=".\fig3.jpg" style="zoom:20%;" />
 
-<center><p>Figure 2. The beam steering results. </p></center>
+<center style="font-size:14px"><p>Figure 2. The beam steering results. </p></center>

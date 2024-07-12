@@ -24,13 +24,15 @@ As a typical application, we have designed a metalens that enables spin-selectiv
 
 <img src=".\fig1.jpg" style="zoom:20%;" />
 
-<center><p>Figure 1. Diagram of the multifold geometric phase interference.</p></center>
+<center style="font-size:14px"><p>Figure 1. Diagram of the multifold geometric phase interference.</p></center>
+
+
 
 <img src=".\fig2.jpg" style="zoom:20%;" />
 
-<center><p>Figure 2. Schematic of the complex field modulation by the multiple geometric phase.</p></center>
+<center style="font-size:14px"><p>Figure 2. Schematic of the complex field modulation by the multiple geometric phase.</p></center>
 
 <img src=".\fig3.jpg" style="zoom:20%;" />
 
-<center><p>Figure 3. Schematic of spin selective hybrid display/metalens and experimental demenstration of the complex field modulation abilities of our metasurface</p></center>
+<center style="font-size:14px"><p>Figure 3. Schematic of spin selective hybrid display/metalens and experimental demenstration of the complex field modulation abilities of our metasurface</p></center>
 
