@@ -48,3 +48,9 @@ light illumination. (c) Focal spot intensity and full width at half-maximum (fwh
 
 ## QPI Performance
 
+The metalens was then used for QPI. Multi-plane defocus images are obtained by changing the polarization angle of the incident light. Based on the high-order TIE method, the research group has demonstrated the ability to perform quantitative phase imaging of transparent objects with precision and reliability. As shown in Figure 3, the results indicate that this method can also give good results for objects with slowly varying phase.
+
+<img src=".\fig3.jpg" style="zoom:30%;" />
+
+<center><p>Figure 3. Quantitative phase target metrology using the varifocal metalens. (a) Schematic of the metalens-based QPI experimental setup. BF: Bandpass Filter, LP: Linear Polarizer, PO: Phase Object, ML: Metalens, OL: Objective Lens, TL: Tube Lens. (b) Experimentally measured intensity of the phase object under 0−90° polarized light illumination. The image under 45° polarization is the focused image, while the others are defocused images. (c) The height ground truth obtained from the white light interferometer (WLI), as well as the heights reconstructed using a multiple frames approach and two frames. (d) Comparison and residual of the phase distribution in the dashed line. MF: Multiple Frames, TF:Two Frames, MR: Residual of Multiple Frames, TR: Residual of Two Frames.</p></center>
+
