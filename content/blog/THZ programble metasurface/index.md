@@ -11,128 +11,23 @@ image:
   caption: 'Schematic diagram of the unit structure and beam steering'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+[🔗 Paper Link](https://doi.org/10.1063/5.0210458)
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+## Summary
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+Terahertz modulators hold great promise for applications in terahertz intelligent communication and computational imaging, among other fields. However, existing terahertz phase modulators fail to meet expectations in terms of speed, efficiency, and flux. Therefore, there is an urgent need to develop high-speed, high-efficiency, and high-flux terahertz spatial light modulators.
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+We proposed a design for a terahertz programmable metasurface based on the free carrier plasma dispersion effect. By integrating PN junctions into the "H"-shaped metallic metasurface unit structure. We utilized the change in the carrier concentration distribution of the PN junctions induced by the application of an external voltage. Simulations have demonstrated continuous phase modulation of 270° at a frequency of 0.4 THz and an average efficiency of 30%. The metasurface unit employs an "MIM" structure, with each unit being independently adjustable. Moreover, it leverages the high-speed switching characteristics of the PN junction, which is expected to achieve modulation speeds up to the GHz level. The team also demonstrated the far-field radiation pattern of the metasurface unit array, with a peak side-lobe ratio of 13 dB, indicating good beam steering performance.
 
-## Mindmaps
+<img src=".\fig1.jpg" style="zoom:20%;" />
 
-Hugo Blox supports a Markdown extension for mindmaps.
+<center><p>Figure 1. Continuous phase regulation of a metasurface unit under voltage.</p></center>
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+<img src=".\fig2.jpg" style="zoom:20%;" />
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+<center><p>Figure 2. (a) and (b) The reflected phase and amplitude of metasurface biased by different voltages. (c) The phase and amplitude response at 0.4 THz with different voltage.
+(d) Reflected wavefront of fourth-order phase modulation at 0.4 THz for normal incidence. (e) Phase modulation depth at different frequencies. (f) The relationship between resonance frequency, absorption loss, radiation loss, and applied voltage.</p></center>
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+<img src=".\fig3.jpg" style="zoom:20%;" />
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+<center><p>Figure 2. The beam steering results. </p></center>
