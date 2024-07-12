@@ -11,13 +11,13 @@ last_name: Min
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Master Student of Electronic Information
+role: Master Student of Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,7 +31,7 @@ bio: My research interests include Metasurface, Computational Imaging and Light-
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'minqixuan21@mails.ucas.ac.cn'
+    url: 'mailto:minqixuan21@mails.ucas.ac.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/OpticsXuan
@@ -54,5 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Qixuan Min is a graduate student with a master degree at the University of Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics, Computational Optical Imaging Lab. His research interests include Metasurface for Sensing, Reprogrammable Metasurface, Light-field Camera, Computational Imaging, Optical Computing. During his Master's program, he focused on metasurface-based quantitative phase imaging, advised by Professor Guohai Situ and Professor Jinying Guo. He is finding a Ph.D. Position!
+Qixuan Min is a graduate student with a master degree at the University of Chinese Academy of Sciences, Shanghai Institute of Optics and Fine Mechanics, Computational Optical Imaging Lab. His research interests include Metasurface for Sensing, Reprogrammable Metasurface, Light-field Camera, Computational Imaging, Optical Computing. During his Master's program, he focused on metasurface-based quantitative phase imaging, advised by Professor Guohai Situ and Professor Jinying Guo. **He is finding a Ph.D. Position!**
 
