@@ -37,12 +37,12 @@ IEEE photonics technology letters
 
 ## Selected Awards
 
-+ Entrepreneurial Pioneer Award          Nov 2021
-+ Outstanding Freshmen Scholarship          Oct 2021
-+ Outstanding Graduates          June 2021
-+ First Price in Texas Instruments National Undergraduate Electronics Design Contest          Sep 2019
-+ Second Price in NXP Semiconductors Cup National Undergraduate Smart Car Contest          Aug 2019
-+ Third Price in National Undergraduate Engineering Training Integration Ability Competition          May 2019
++ Entrepreneurial Pioneer Award------Nov 2021
++ Outstanding Freshmen Scholarship------Oct 2021
++ Outstanding Graduates------June 2021
++ First Price in Texas Instruments National Undergraduate Electronics Design Contest------Sep 2019
++ Second Price in NXP Semiconductors Cup National Undergraduate Smart Car Contest------Aug 2019
++ Third Price in National Undergraduate Engineering Training Integration Ability Competition------May 2019
 
 ## Skills
 
