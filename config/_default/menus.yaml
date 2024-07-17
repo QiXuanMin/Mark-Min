@@ -6,7 +6,7 @@ main:
     url: /
     weight: 10
   - name: Topics
-    url: Research Area/
+    url: tags/
     weight: 20
   - name: Research Experience
     url: uses/
