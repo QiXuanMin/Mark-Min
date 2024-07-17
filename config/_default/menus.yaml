@@ -2,12 +2,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Homepage
     url: /
     weight: 10
   - name: Topics
-    url: tags/
+    url: Research Area/
     weight: 20
-  - name: Uses
+  - name: Research Experience
     url: uses/
     weight: 30

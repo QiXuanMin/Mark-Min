@@ -1,5 +1,5 @@
 ---
-title: Experience
+title: Research Experience
 date: 2024-07-12
 hide_date: true
 reading_time: false
@@ -11,7 +11,7 @@ reading_time: false
 
   <p align="right">Sep 2021 - July 2024</p>
 
-+ **Bachelor of Automation ** : Shanghai Maritime University, Shanghai, China.
++ **Bachelor of Automation** : Shanghai Maritime University, Shanghai, China.
 
 <p align="right">Sep 2017 - July 2021</p>
 
