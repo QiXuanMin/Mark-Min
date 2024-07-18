@@ -41,7 +41,7 @@ profiles:
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/PhD_application_CV_0717.pdf
+    url: uploads/PhD_application_CV.pdf
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
