@@ -32,15 +32,10 @@ reading_time: false
 
 ### Contest Projects
 
-+ Undergraduate Smart Car Contest : ROS based ROS-based self-driving robots. 2021
-
++ Undergraduate Smart Car Contest : ROS-based self-driving robots. 2021
 + Undergraduate Smart Car Contest : Embedded AI enhanced electromagnetic smart car. 2020
-
 + NXP Cup Undergraduate Smart Car Contest : Intelligent Chess Gaming Robot. 2019
-
 + TI Cup Undergraduate Electronics Design Contest : Self-targeting Electromagnetic Cannon. 2019
-
-  
 
 ## Peer Reviewer
 
