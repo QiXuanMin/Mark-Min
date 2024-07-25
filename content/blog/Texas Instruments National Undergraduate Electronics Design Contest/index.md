@@ -19,8 +19,8 @@ The system incorporates the NXP K60 chip as the control core, in conjunction wit
 
 ### Gimbal self-stabilizing
 
-{{</* video src="gimbal self-stabilising.mp4" controls="yes" */>}}
+{{< video src="gimbal self-stabilising.mp4" controls="yes" >}}
 
 ### Target tracing
 
-{{</* video src="target tracing.mp4" controls="yes" */>}}
+{{< video src="target tracing.mp4" controls="yes" >}}
