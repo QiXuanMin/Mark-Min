@@ -33,6 +33,12 @@ Design and build an electromagnetic cannon, with adjustable horizontal and verti
 
 <img src=".\framework.jpg" style="zoom:90%;" />
 
+## Functions
+
+### Shooting
+
+{{< youtube Bu5TCRKWmkQ>}}
+
 ### Gimbal self-stabilizing
 
 {{< video src="gimbal self-stabilising.mp4" controls="yes" >}}
@@ -40,3 +46,4 @@ Design and build an electromagnetic cannon, with adjustable horizontal and verti
 ### Target tracing
 
 {{< video src="target tracing.mp4" controls="yes" >}}
+
