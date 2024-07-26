@@ -19,13 +19,19 @@ The system incorporates the NXP K60 chip as the control core, in conjunction wit
 
 Design and build an electromagnetic cannon, with adjustable horizontal and vertical elevation of the barrel, which shoots the projectile by electromagnetic force and hits the target ring, with a firing period of no more than 30 seconds. The electromagnetic gun is powered by a DC regulated power supply, and capacitive energy storage elements are permitted in the electromagnetic gun system.
 
-![](.\fig1.png)
+<img src=".\fig1.png" style="zoom:80%;" />
 
-![](.\fig2.png)
+<img src=".\fig2.png" style="zoom:90%;" />
 
 ## Design
 
+### Overview
 
+<img src=".\Electromagnetic Cannon2.jpg" style="zoom:90%;" />
+
+### System Framework
+
+<img src=".\framework.jpg" style="zoom:90%;" />
 
 ### Gimbal self-stabilizing
 
